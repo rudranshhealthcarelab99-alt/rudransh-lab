@@ -1,0 +1,6 @@
+{
+  "name": "Rudransh Healthcare & Path Lab",
+  "description": "Trusted diagnostic pathology laboratory and home sample collection services in Uttam Nagar, New Delhi. 24/7 Service with centre visiting hours from 8 AM to 8 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
